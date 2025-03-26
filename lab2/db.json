@@ -1,0 +1,218 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Bluetooth Earbuds",
+      "stock": 150,
+      "price": 59.99,
+      "description": "High-quality wireless earbuds with noise cancellation",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Smart Fitness Watch",
+      "stock": 89,
+      "price": 129.99,
+      "description": "Track your workouts and monitor heart rate",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "rating": 2.2
+    },
+    {
+      "id": "3",
+      "name": "Organic Cotton T-Shirt",
+      "stock": 250,
+      "price": 24.99,
+      "description": "Comfortable 100% organic cotton t-shirt",
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9",
+      "rating": 4
+    },
+    {
+      "id": "4",
+      "name": "Stainless Steel Water Bottle",
+      "stock": 180,
+      "price": 19.95,
+      "description": "Keeps drinks cold for 24 hours or hot for 12",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+      "rating": 4.7
+    },
+    {
+      "id": "5",
+      "name": "Wireless Charging Pad",
+      "stock": 75,
+      "price": 29.99,
+      "description": "Fast charging pad compatible with all Qi devices",
+      "category": "Electronics",
+      "image": "https://vissles.com/cdn/shop/products/Vissles-W3-in-1wirelesschargerimagemain2_1024x1024.png?v=1652953213",
+      "rating": 3.9
+    },
+    {
+      "id": "6",
+      "name": "Leather Wallet",
+      "stock": 120,
+      "price": 45,
+      "description": "Genuine leather wallet with multiple card slots",
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1546938576-6e6a64f317cc",
+      "rating": 4.3
+    },
+    {
+      "id": "7",
+      "name": "Ceramic Coffee Mug",
+      "stock": 300,
+      "price": 12.99,
+      "description": "Handcrafted ceramic mug with comfortable grip",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38",
+      "rating": 4.1
+    },
+    {
+      "id": "8",
+      "name": "Yoga Mat",
+      "stock": 95,
+      "price": 34.5,
+      "description": "Non-slip yoga mat with carrying strap",
+      "category": "Fitness",
+      "image": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f",
+      "rating": 4.4
+    },
+    {
+      "id": "9",
+      "name": "Blender",
+      "stock": 60,
+      "price": 89.99,
+      "description": "High-powered blender for smoothies and food prep",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a",
+      "rating": 4.6
+    },
+    {
+      "id": "10",
+      "name": "Running Shoes",
+      "stock": 200,
+      "price": 79.99,
+      "description": "Lightweight running shoes with cushioned soles",
+      "category": "Footwear",
+      "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2",
+      "rating": 4.8
+    },
+    {
+      "id": "11",
+      "name": "Backpack",
+      "stock": 110,
+      "price": 49.99,
+      "description": "Durable backpack with laptop compartment",
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "rating": 4.2
+    },
+    {
+      "id": "12",
+      "name": "Desk Lamp",
+      "stock": 85,
+      "price": 39.95,
+      "description": "Adjustable LED desk lamp with multiple brightness levels",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15",
+      "rating": 3.8
+    },
+    {
+      "id": "13",
+      "name": "Wireless Keyboard",
+      "stock": 140,
+      "price": 69.99,
+      "description": "Ergonomic wireless keyboard with silent keys",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+      "rating": 4.5
+    },
+    {
+      "id": "14",
+      "name": "Sunglasses",
+      "stock": 175,
+      "price": 29.99,
+      "description": "UV protection sunglasses with polarized lenses",
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+      "rating": 3.7
+    },
+    {
+      "id": "15",
+      "name": "Air Fryer",
+      "stock": 65,
+      "price": 119.99,
+      "description": "Digital air fryer with multiple cooking presets",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1611791484670-ce19b801d192",
+      "rating": 4.9
+    },
+    {
+      "id": "16",
+      "name": "Throw Blanket",
+      "stock": 230,
+      "price": 35,
+      "description": "Soft fleece throw blanket for all seasons",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1592078615290-033ee584e267",
+      "rating": 4
+    },
+    {
+      "id": "17",
+      "name": "Resistance Bands Set",
+      "stock": 180,
+      "price": 24.99,
+      "description": "5-piece resistance bands for home workouts",
+      "category": "Fitness",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b",
+      "rating": 4.3
+    },
+    {
+      "id": "18",
+      "name": "Portable Speaker",
+      "stock": 90,
+      "price": 79.95,
+      "description": "Waterproof Bluetooth speaker with 20-hour battery",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb",
+      "rating": 4.7
+    },
+    {
+      "id": "19",
+      "name": "Coffee Table Book",
+      "stock": 120,
+      "price": 29.99,
+      "description": "Hardcover photography coffee table book",
+      "category": "Books",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "rating": 3.5
+    },
+    {
+      "id": "20",
+      "name": "Smart LED Bulb",
+      "stock": 300,
+      "price": 19.99,
+      "description": "Color-changing smart bulb with app control",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9",
+      "rating": 4.1
+    }
+  ],
+  "carts": [
+    {
+      "id": "457e",
+      "productId": "1"
+    },
+    {
+      "id": "6902",
+      "productId": "2"
+    },
+    {
+      "id": "eebc",
+      "productId": "1"
+    }
+  ]
+}
